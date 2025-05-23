@@ -30,7 +30,7 @@ We’re sorry about that! Please report it with as much detail as possible:
 
 You can:
 - [Open an issue on GitHub](https://github.com/invisibleloop/app-support/issues)
-- Or email us directly at [support@invisibleloop.com](mailto:hello.invisibleloop@gmail.com)
+- Or email us directly at [hello.invisibleloop@gmail.com](mailto:hello.invisibleloop@gmail.com)
 
 ---
 
