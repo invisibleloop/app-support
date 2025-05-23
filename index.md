@@ -14,7 +14,7 @@ We're a small indie developer focused on building simple, elegant tools that res
 
 If you’re experiencing an issue, have a suggestion, or just want to say hello:
 
-- 📧 Email us: [support@invisibleloop.com](mailto:invisibleloop.hello@gmail.com)
+- 📧 Email us: [support@invisibleloop.com](mailto:hello.invisibleloop@gmail.com)
 - 🐛 Open an issue on [GitHub](https://github.com/invisibleloop/app-support/issues)
 
 Thanks for using our apps!
