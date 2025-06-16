@@ -8,6 +8,7 @@ We're a small indie developer focused on building simple, elegant tools that res
 
 - [Just 7 – Simple Weekly Task Manager](./just7.md)
 - [Rouleat – Spin the wheel, where will you eat](./rouleat.md)
+- [Scriblo – Slide, merge, and spell in this clever word puzzle](./scriblo.md)
 
 ---
 
