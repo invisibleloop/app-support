@@ -21,5 +21,3 @@ If you’re experiencing an issue, have a suggestion, or just want to say hello:
 - 🐛 Open an issue on [GitHub](https://github.com/invisibleloop/app-support/issues)
 
 Thanks for using our apps!
-
-Andy
