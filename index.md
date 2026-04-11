@@ -10,6 +10,8 @@ We're a small indie developer focused on building simple, elegant tools that res
 - [Rouleat – Spin the wheel, where will you eat](./rouleat.md)
 - [Scriblo – Slide, merge, and spell in this clever word puzzle](./scriblo.md)
 - [Infinity Track – Build tracks ahead of your unstoppable train](./infinity-track.md)
+- [Chippy Bird – Guide a cheeky seagull on a chip-stealing adventure](./chippy-bird.md)
+- [Time To Run – Build a running habit, one week at a time](./time-to-run.md)
 
 ---
 
