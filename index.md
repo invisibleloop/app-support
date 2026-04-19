@@ -12,6 +12,7 @@ We're a small indie developer focused on building simple, elegant tools that res
 - [Infinity Track – Build tracks ahead of your unstoppable train](./infinity-track.md)
 - [Chippy Bird – Guide a cheeky seagull on a chip-stealing adventure](./chippy-bird.md)
 - [Time To Run – Build a running habit, one week at a time](./time-to-run.md)
+- [Crack it! – Decode encrypted words by cracking the cipher](./crack-it.md)
 
 ---
 
