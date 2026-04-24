@@ -12,14 +12,15 @@ We're a small indie developer focused on building simple, elegant tools that res
 - [Infinity Track – Build tracks ahead of your unstoppable train](./infinity-track.md)
 - [Chippy Bird – Guide a cheeky seagull on a chip-stealing adventure](./chippy-bird.md)
 - [Time To Run – Build a running habit, one week at a time](./time-to-run.md)
+- [Squared Chess – Combine chess moves with block puzzles](./squared-chess.md)
 
 ---
 
 ### Need help?
 
-If you’re experiencing an issue, have a suggestion, or just want to say hello:
+If you're experiencing an issue, have a suggestion, or just want to say hello:
 
-- 📧 Email us: [hello.invisibleloop@gmail.com](mailto:hello.invisibleloop@gmail.com)
+- 📧 Email us: [ink@invisibleloop.com](mailto:ink@invisibleloop.com)
 - 🐛 Open an issue on [GitHub](https://github.com/invisibleloop/app-support/issues)
 
 Thanks for using our apps!
